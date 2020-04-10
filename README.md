@@ -1,3 +1,10 @@
+![Image1](https://github.com/chandnijp/react-redux-advanced-example/blob/master/src/assets/images/redux-adv(1).png)
+
+STORING AND MULTIPLYING BY 2
+![Image1](https://github.com/chandnijp/react-redux-advanced-example/blob/master/src/assets/images/redux-adv(2).png)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
